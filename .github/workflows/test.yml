@@ -8,5 +8,5 @@ jobs:
     name: test
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Code
-        run: echo master branch
+      - name: Echo something
+        run: echo 😈 hehe 😈
